@@ -352,6 +352,56 @@ To change in production, update API endpoints in:
 - `frontend/src/components/StudentList.js`
 - `frontend/src/components/TaskList.js`
 
+<img width="1359" height="648" alt="image" src="https://github.com/user-attachments/assets/f54388d3-1f35-41a7-9ef4-505f9f04a20a" />
+
+  
+
+
+  <img width="1355" height="667" alt="image" src="https://github.com/user-attachments/assets/4cb4f665-984d-448c-bd4d-2cf81657124c" />
+
+
+
+
+<img width="1364" height="576" alt="image" src="https://github.com/user-attachments/assets/7c079783-d03a-4f3f-9260-25933f8f2573" />
+
+
+
+<img width="1358" height="658" alt="image" src="https://github.com/user-attachments/assets/53b78430-fb80-47a5-9ab7-4affbc87525e" />
+
+
+<img width="1188" height="334" alt="image" src="https://github.com/user-attachments/assets/38e1c049-967d-4a8b-a283-b289e3f84695" />
+
+
+
+<img width="1060" height="563" alt="image" src="https://github.com/user-attachments/assets/bb487cd2-3970-483a-9e82-6697bb83a3cb" />
+
+
+
+
+
+<img width="1365" height="669" alt="image" src="https://github.com/user-attachments/assets/803f8c01-f867-4380-bc87-caa5282dfac3" />
+
+
+
+<img width="326" height="137" alt="image" src="https://github.com/user-attachments/assets/42098982-b19e-4f7b-b3ee-fab87ab9b842" />
+
+
+<img width="1037" height="315" alt="image" src="https://github.com/user-attachments/assets/a86a5c4c-0990-4f0b-8e61-1a106cb5f919" />
+
+
+
+
+<img width="990" height="443" alt="image" src="https://github.com/user-attachments/assets/af1f4ca3-1eff-4095-91dd-a758d33f7933" />
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Deployment
 
 ### Frontend (Vercel/Netlify)
