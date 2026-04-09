@@ -21,7 +21,7 @@ A professional full-stack web application for managing basic school operations i
 - Mark tasks as completed/pending
 - View all assigned tasks
 - Filter tasks by status (All, Pending, Completed)
-- Task descriptions and due date tracking
+- Task descriptions (TASK ROLE ->QUIZ,PUZZLE,MCQ,IMGAE) due date tracking
 
 ### 📊 Dashboard
 - Overview statistics (Total Students, Total Tasks, Completed, Pending)
